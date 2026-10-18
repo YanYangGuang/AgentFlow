@@ -37,3 +37,4 @@ async function changeRuntimeMode(value: string | number | boolean) {
 <style scoped>
 .mode-card{align-items:center;gap:8px}.mode-card>div{min-width:0;flex:1}.mode-card small{display:block;line-height:1.35}.mode-card .el-switch{transform:scale(.86);transform-origin:right center}.environment{font:inherit;background:transparent;border:0;cursor:pointer}.environment.live{color:#d94e4e}.environment.demo{color:#bb822e}.motion-toggle{font-size:11px;color:var(--subtle)}
 </style>
+
