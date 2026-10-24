@@ -2,7 +2,9 @@
 
 AI 智能体工作流平台：从任务意图，到可追踪的智能执行。
 
-当前已交付 V1.0 里程碑第 1–5 阶段的基础能力：Vue 3 + TypeScript + Vite 前端，FastAPI + SQLAlchemy + SQLite 后端。系统以**安全沙盒**为初始环境；侧栏总开关切换整个工作区的新运行环境。真实模型执行仍受后端 `AGENTFLOW_ENABLE_LIVE_EXECUTION` 开关和模型凭据双重保护。
+当前已交付 V1.0 里程碑第 1–5 阶段的基础能力：Vue 3 + TypeScript + Vite 前端，FastAPI + SQLAlchemy + SQLite 后端。
+系统以**安全沙盒**为初始环境；侧栏总开关切换整个工作区的新运行环境。
+真实模型执行仍受后端 `AGENTFLOW_ENABLE_LIVE_EXECUTION` 开关和模型凭据双重保护。
 
 ## 当前功能
 
